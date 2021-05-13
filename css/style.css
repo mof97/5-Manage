@@ -68,12 +68,10 @@ header {
 
 .bg-tab {
   position: absolute;
-  right: -10%;
-  top: -8%;
-  z-index: -1; }
-  @media (max-width: 990px) {
-    .bg-tab {
-      right: -75%; } }
+  right: 0px;
+  top: -380px;
+  z-index: -1;
+ }
 
 @media (max-width: 990px) {
   .section-two .one {
